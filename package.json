@@ -2,9 +2,12 @@
   "name": "ga-pfnp",
   "preferGlobal": true,
   "version": "0.3.0",
-  "dependencies" : {
-     "express": "3.3.5",
+  "dependencies": {
+    "express": "3.3.5",
     "ejs": "*",
-    "mongodb": "*"
+    "mongodb": "*",
+    "cons": "0.0.2",
+    "swig": "^1.4.2",
+    "consolidate": "^0.11.0"
   }
 }
